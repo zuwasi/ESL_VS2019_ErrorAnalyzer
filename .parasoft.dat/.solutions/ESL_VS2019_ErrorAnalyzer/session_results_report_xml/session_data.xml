@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ResultsSession>
+   <SessionData configName="Flow Analysis Aggressive" configPseudoUrl="c++test.builtin://Flow Analysis Aggressive" enabledAnalysis="Static" enabledHandlers="com.parasoft.xtest.checkers.api.scope.factory;com.parasoft.xtest.checkers.api.standards.factory" header="?? ??false??false??" runId="" startTime="1742208383168" tool="c++test">
+      <Authors/>
+      <Selection>
+         <Res id="ESL_VS2019_ErrorAnalyzer/ESL_VS2019_ErrorAnalyzer/Source Files/ESL_VS2019_ErrorAnalyzer.cpp"/>
+      </Selection>
+      <XmlDataFiles/>
+   </SessionData>
+   <Locations/>
+   <CodingStandards>
+      <TestedFilesDetails>
+         <Total name="Suppressed / Total" supp="0" total="0">
+            <Project name="ESL_VS2019_ErrorAnalyzer" supp="0" total="0">
+               <Res name="Source Files" supp="0" total="0">
+                  <Res name="ESL_VS2019_ErrorAnalyzer.cpp" supp="0" total="0"/>
+               </Res>
+            </Project>
+         </Total>
+      </TestedFilesDetails>
+   </CodingStandards>
+</ResultsSession>

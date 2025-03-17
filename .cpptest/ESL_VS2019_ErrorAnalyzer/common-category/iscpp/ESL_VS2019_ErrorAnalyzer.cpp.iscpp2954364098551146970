@@ -1,0 +1,6 @@
+fileName=C:\Users\danie\source\repos\ErrorAnalyzer\ESL_VS2019_ErrorAnalyzer\ESL_VS2019_ErrorAnalyzer.cpp
+isCpp=
+compilerOpts=-I"C:\Program Files\Parasoft\C++test for Visual Studio (x86_64)\10.7\engine\runtime\include" /ZI /W3 /Od /EHsc /RTC1 /MDd /fp:precise /Gd /GS /sdl /I"C:\Users\danie\vcpkg\installed\x64-windows\include" /Gm- /D"_DEBUG" /D"_CONSOLE" /D"_UNICODE" /D"UNICODE" /Zc:wchar_t /Zc:forScope /Zc:inline /WX- /nologo /FC /permissive- /diagnostics:column /std:c++20 /JMC -DPARASOFT_CPPTEST -I.
+compilerId=vc_14_3-64
+workingDir=C:\Users\danie\source\repos\ErrorAnalyzer\ESL_VS2019_ErrorAnalyzer\
+advancedOptionsHash=0
